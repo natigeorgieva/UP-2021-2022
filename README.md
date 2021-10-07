@@ -14,14 +14,14 @@
             Връзка с мен
         </th>
     </tr>
-    <tr style="font-size:20px;">
+    <tr style="font-size:25px;">
     </tr>
     <tr>
         <td>
             <b>Натали Георгиева</b><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/natali.georgieva.4"><img src="https://img.icons8.com/facebook" style = "vertical-align: middle;"> Натали Георгиева</a><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/nati.georgieva/"><img src="https://img.icons8.com/instagram" style = "vertical-align: middle;"> Натали Георгиева</a><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/email" style = "vertical-align: middle;"> natali.georgieva23@g.fmi.uni-sofia.bg
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/natali.georgieva.4"><img src="https://img.icons8.com/material-rounded/24/000000/facebook.png" style = "vertical-align: middle;"> Натали Георгиева</a><br>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/nati.georgieva/"><img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" style = "vertical-align: middle;"> Натали Георгиева</a><br>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/material-rounded/24/000000/email.png" style = "vertical-align: middle;"> natali.georgieva23@g.fmi.uni-sofia.bg
         </td>
     </tr>
 </table>
