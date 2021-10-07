@@ -21,7 +21,8 @@
             <b>Натали Георгиева</b><br>
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/natali.georgieva.4"><img src="https://img.icons8.com/material-rounded/24/000000/facebook.png" style = "vertical-align: middle;"> Натали Георгиева</a><br>
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/nati.georgieva/"><img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" style = "vertical-align: middle;"> Натали Георгиева</a><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="natali.georgieva23@g.fmi.uni-sofia.bg"><img src="https://img.icons8.com/material-rounded/24/000000/email.png" style = "vertical-align: middle;"> natali.georgieva23@g.fmi.uni-sofia.bg </a><br>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:natali.georgieva23@g.fmi.uni-sofia.bg
+"><img src="https://img.icons8.com/material-rounded/24/000000/email.png" style = "vertical-align: middle;"> natali.georgieva23@g.fmi.uni-sofia.bg </a><br>
         </td>
     </tr>
 </table>
